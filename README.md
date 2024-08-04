@@ -1,16 +1,97 @@
-## Hi there 👋
 
-<!--
-**LubangaD/LubangaD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="GIF" />
 
-Here are some ideas to get you started:
+### 👋 Hi, I'm Derrick Lubanga
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **MSc. Data Science and Analytics (Ongoing)**  
+📍 Nairobi, Kenya
+
+---
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LubangaD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LubangaD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+## About Me
+
+I am a dedicated Data Scientist and Frontend Developer with a robust background in data analytics, business intelligence, and machine learning. My passion lies in transforming data into actionable insights and crafting user-friendly web interfaces. Currently, I am pursuing my master's degree while expanding my knowledge in the latest data science and web technologies. I am also an enthusiast of AI and Machine Learning, particularly Large Language Models (LLMs).
+
+---
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R" />
+</div>
+
+## 🛠 Skills & Technologies
+
+### Data Science & Analytics
+- **Data Visualization**: Power BI, Tableau
+- **Programming**: Python, SQL
+- **Machine Learning**: Predictive Modeling, Statistical Methods
+
+### Web Development
+- **Frontend**: HTML, CSS, JavaScript
+- **Web Tools**: WordPress
+
+### Data Engineering
+- **ETL Tools**: SSIS (SQL Server Integration Services)
+
+---
+
+## 📫 Get in Touch
+- **Email**: [lderrickn254@gmail.com](mailto:lderrickn254@gmail.com)
+- **LinkedIn**: [linkedin.com/in/lubanga99/](https://www.linkedin.com/in/lubanga99/)
+
+---
+
+<div align="left">
+  <a href="https://www.instagram.com/de_rri_ck_99/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
+  <a href="mailto:lderrickn254@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/lubanga99/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linktree" />
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Medium" />
+  <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Signal" />
+</div>
+
+---
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/LubangaD/LubangaD/output/snake.svg" alt="Snake animation" />
+
+---
+
+
+<div align="left">
+  <a href="https://www.instagram.com/de_rri_ck_99/">
+    <img src="https://img.shields.io/static/v1?message=
