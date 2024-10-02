@@ -3,7 +3,7 @@
 
 ### 👋 Hi, I'm Derrick Lubanga
 
-🎓 **MSc. Data Science and Analytics (Ongoing)**  
+🎓 **Data Scientist**  
 📍 Nairobi, Kenya
 
 ---
