@@ -47,10 +47,18 @@ I am a dedicated Data Scientist and Frontend Developer with a robust background 
 
 ## 🛠 Skills & Technologies
 
-### Data Science & Analytics
-- **Data Visualization**: Power BI, Tableau
+### AI & Data Science Tech Stack
+- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn, Plotly
 - **Programming**: Python, SQL
-- **Machine Learning**: Predictive Modeling, Statistical Methods
+- **Machine Learning**: Predictive Modeling, Statistical Methods, Scikit-Learn, TensorFlow, Keras
+- **GenAI & Large Language Models (LLMs)**: OpenAI GPT, BERT, T5, Transformer Libraries, Hugging Face Transformers
+- **Big Data Technologies**: Apache Spark, Hadoop
+- **Data Warehousing**: Snowflake, BigQuery, Redshift
+- **Cloud Platforms**: AWS (SageMaker, EC2), Azure (ML Studio), Google Cloud (AI Platform)
+- **Data Engineering**: Apache Airflow, Kafka, ETL Tools, SSIS (SQL Server Integration Services)
+- **Model Deployment**: Flask, Streamlit
+- **Visualization & Reporting**: D3.js, Dash, Shiny for R, Streamlit
+
 
 ### Web Development
 - **Frontend**: HTML, CSS, JavaScript
