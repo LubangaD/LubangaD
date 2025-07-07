@@ -22,25 +22,25 @@ I am a dedicated Data Scientist and Frontend Developer with a robust background 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <span style="display:inline-block;width:12px;"></span>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <span style="display:inline-block;width:12px;"></span>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <span style="display:inline-block;width:12px;"></span>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <span style="display:inline-block;width:12px;"></span>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <span style="display:inline-block;width:12px;"></span>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <span style="display:inline-block;width:12px;"></span>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />
-  <span style="display:inline-block;width:12px;"></span>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <span style="display:inline-block;width:12px;"></span>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino" />
-  <span style="display:inline-block;width:12px;"></span>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva" />
-  <span style="display:inline-block;width:12px;"></span>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R" />
 </div>
 
@@ -57,6 +57,7 @@ I am a dedicated Data Scientist and Frontend Developer with a robust background 
 - **Data Engineering**: Apache Airflow, Kafka, ETL Tools, SSIS (SQL Server Integration Services)
 - **Model Deployment**: Flask, Streamlit
 - **Visualization & Reporting**: D3.js, Dash, Shiny for R, Streamlit
+
 
 ### Web Development
 - **Frontend**: HTML, CSS, JavaScript
@@ -96,3 +97,8 @@ I am a dedicated Data Scientist and Frontend Developer with a robust background 
 <img src="https://raw.githubusercontent.com/LubangaD/LubangaD/output/snake.svg" alt="Snake animation" />
 
 ---
+
+
+<div align="left">
+  <a href="https://www.instagram.com/de_rri_ck_99/">
+    <img src="https://img.shields.io/static/v1?message=
