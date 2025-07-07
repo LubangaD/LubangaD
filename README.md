@@ -20,28 +20,27 @@
 I am a dedicated Data Scientist and Frontend Developer with a robust background in data analytics, business intelligence, and machine learning. My passion lies in transforming data into actionable insights and crafting user-friendly web interfaces. Currently, I am pursuing my master's degree while expanding my knowledge in the latest data science and web technologies. I am also an enthusiast of AI and Machine Learning, particularly Large Language Models (LLMs).
 
 ---
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
+  <span style="display:inline-block; width:12px;"></span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
+  <span style="display:inline-block; width:12px;"></span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
+  <span style="display:inline-block; width:12px;"></span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
+  <span style="display:inline-block; width:12px;"></span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
+  <span style="display:inline-block; width:12px;"></span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img width="12" />
+  <span style="display:inline-block; width:12px;"></span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />
-  <img width="12" />
+  <span style="display:inline-block; width:12px;"></span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img width="12" />
+  <span style="display:inline-block; width:12px;"></span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino" />
-  <img width="12" />
+  <span style="display:inline-block; width:12px;"></span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva" />
-  <img width="12" />
+  <span style="display:inline-block; width:12px;"></span>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R" />
 </div>
 
