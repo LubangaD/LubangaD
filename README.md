@@ -19,7 +19,7 @@
 I am a dedicated Data Scientist and Frontend Developer with a robust background in data analytics, business intelligence, and machine learning. My passion lies in transforming data into actionable insights and crafting user-friendly web interfaces. Currently, I am pursuing my master's degree while expanding my knowledge in the latest data science and web technologies. I am also an enthusiast of AI and Machine Learning, particularly Large Language Models (LLMs).
 
 ---
-
+<!-- This is a comment 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
@@ -43,7 +43,7 @@ I am a dedicated Data Scientist and Frontend Developer with a robust background 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R" />
 </div>
-
+-->
 ## 🛠 Skills & Technologies
 
 ### AI & Data Science Tech Stack
