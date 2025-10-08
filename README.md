@@ -16,7 +16,7 @@
 ###
 ## About Me
 
-I am a dedicated Data Scientist and Frontend Developer with a robust background in data analytics, business intelligence, and machine learning. My passion lies in transforming data into actionable insights and crafting user-friendly web interfaces. Currently, I am pursuing my master's degree while expanding my knowledge in the latest data science and web technologies. I am also an enthusiast of AI and Machine Learning, particularly Large Language Models (LLMs).
+I am a Data Scientist and Co-Founder of Tunga Innovation Limited, with a strong background in data analytics, machine learning, and predictive modeling. My work focuses on building AI-driven platforms that integrate predictive analytics, optimization, and real-time data processing to improve health and agricultural systems in Kenya. I have hands-on experience with LLMs, computer vision, and Apache Spark pipelines. I hold a Master’s in Data Science and Analytics from Strathmore University and am deeply passionate about using AI for social good and empowering disadvantaged communities through Innovative solutions.
 
 ---
 <!-- This is a comment 
