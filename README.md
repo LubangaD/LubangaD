@@ -19,7 +19,7 @@
 I am a Data Scientist and Co-Founder of Tunga Innovation Limited, with a strong background in data analytics, machine learning, and predictive modeling. My work focuses on building AI-driven platforms that integrate predictive analytics, optimization, and real-time data processing to improve health and agricultural systems in Kenya. I have hands-on experience with LLMs, computer vision, and Apache Spark pipelines. I hold a Master’s in Data Science and Analytics from Strathmore University and am deeply passionate about using AI for social good and empowering disadvantaged communities through Innovative solutions.
 
 ---
-<!-- This is a comment 
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
@@ -43,7 +43,7 @@ I am a Data Scientist and Co-Founder of Tunga Innovation Limited, with a strong 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R" />
 </div>
--->
+
 ## 🛠 Skills & Technologies
 
 ### AI & Data Science Tech Stack
