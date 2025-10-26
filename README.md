@@ -10,8 +10,7 @@
 
 <div align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=LubangaD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LubangaD&theme=dracula"> -->
-  <img src="https://metrics.lecoq.io/LubangaD?template=classic&base=header,activity,community&isocalendar=1&repositories=100&pr=1&activity=1&notable=1&theme=dracula" alt="GitHub Metrics">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LubangaD&theme=dracula">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LubangaD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
