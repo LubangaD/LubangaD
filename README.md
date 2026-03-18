@@ -82,7 +82,7 @@ I am a Data Scientist and Co-Founder of Tunga Innovation Limited, with a strong 
 
 ## 📫 Get in Touch
 - **Email**: [lderrickn254@gmail.com](mailto:lderrickn254@gmail.com)
-- **LinkedIn**: [linkedin.com/in/lubanga99/](https://www.linkedin.com/in/lubanga99/)
+- **LinkedIn**: [linkedin.com/in/lubanga99/](https://www.linkedin.com/in/lubangaderrick/)
 
 ---
 
