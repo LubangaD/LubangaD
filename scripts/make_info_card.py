@@ -19,11 +19,10 @@ ROWS = [
     ("Name", "Derrick Lubanga, MSc"),
     ("Role", "Co-Founder & CEO, Tunga Innovation"),
     ("Also", "Data Scientist, Stahili"),
-    ("Building", "AbleSpeak: a voice-controlled browser extension giving students with motor "
-                 "disabilities hands-free access to digital learning"),
+    ("Building", "AbleSpeak: voice control for people who can't use a keyboard or mouse"),
+    ("Products", "Web navigation (Chrome) · Computer control (Windows)"),
     ("Tuned for", "Kenyan accents and non-standard speech"),
     ("Award", "Royal Academy of Engineering LIF Advance Awardee 2026"),
-    ("Alumni", "Nairobi Circular Economy ClimAccelerator"),
     ("Study", "MSc Data Science & Analytics, Strathmore"),
     ("Focus", "Predictive analytics · digital inclusion"),
     ("Stack", "Python · SQL · TensorFlow · Spark · LLMs"),

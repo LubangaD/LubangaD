@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td valign="top"><img src="./portrait.svg" width="420" alt="Derrick Lubanga drawn in ASCII characters, typing itself in like a terminal" /></td>
-<td valign="top"><img src="./info-card.svg" width="420" alt="Derrick Lubanga, MSc. Co-Founder and CEO of Tunga Innovation and Data Scientist at Stahili, building AbleSpeak: a voice-controlled browser extension giving students with motor disabilities hands-free access to digital learning, tuned for Kenyan accents. Royal Academy of Engineering LIF Advance Awardee 2026. Based in Nairobi, Kenya." /></td>
+<td valign="top"><img src="./info-card.svg" width="420" alt="Derrick Lubanga, MSc. Co-Founder and CEO of Tunga Innovation and Data Scientist at Stahili, building AbleSpeak: voice control for people who can't use a keyboard or mouse, with Web navigation in Chrome and Computer control on Windows, tuned for Kenyan accents. Royal Academy of Engineering LIF Advance Awardee 2026. Based in Nairobi, Kenya." /></td>
 </tr>
 </table>
 
@@ -62,14 +62,13 @@
 
 **💡 AbleSpeak**
 
-- A lightweight, browser-based assistive extension that turns voice commands into real-time navigation, for students with limited hand mobility.
+- Voice control for people who can't use a keyboard or mouse, in two products: **Web navigation**, a Chrome extension for moving through websites and online learning by voice, and **Computer control**, a Windows app for hands-free use of the whole computer.
 - Built for the Kenyan accent and non-standard speech, rather than imported technology tuned to other voices.
 - Named a [Royal Academy of Engineering LIF Advance Awardee 2026](https://raeng.org.uk/programmes-and-prizes/programmes/international-programmes/lif/lif-entrepreneurs/advance-innovators/lif-advance-awardees-2026/derrick-lubanga/) for this work ([AT2030](https://at2030.org/2026-advance-awardees/)).
 
 **📊 Data science**
 
 - Data Scientist at [Stahili](https://stahili.com/about-us/), working in machine learning and data architecture.
-- Alumnus of the Nairobi Circular Economy ClimAccelerator cohort, applying data to green-innovation challenges.
 - MSc Data Science and Analytics, Strathmore University.
 
 | Area | Tools |
