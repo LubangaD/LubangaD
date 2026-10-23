@@ -99,11 +99,9 @@ I am a Data Scientist and Co-Founder of Tunga Innovation Limited, with a strong 
 
 <h3><code>derrick@github ~ $ ./snake.sh</code></h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LubangaD/LubangaD/output/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LubangaD/LubangaD/output/snake-light.svg" />
-  <img src="https://raw.githubusercontent.com/LubangaD/LubangaD/output/snake.svg" width="860" alt="A snake eating Derrick's contribution graph" />
-</picture>
+<!-- once snake.yml has run, add a light variant:
+     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LubangaD/LubangaD/output/snake-light.svg" /> -->
+<img src="https://raw.githubusercontent.com/LubangaD/LubangaD/output/snake.svg" width="860" alt="A snake eating Derrick's contribution graph" />
 
 <br>
 <br>
