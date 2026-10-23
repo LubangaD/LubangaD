@@ -1,116 +1,113 @@
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="GIF" />
-
-### 👋 Hi, I'm Derrick Lubanga
-
-🎓 **Data Scientist**  
-📍 Nairobi, Kenya
-
----
-###
-
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=LubangaD&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=LubangaD&theme=dracula" 
-  height="150" 
-  alt="streak stats" 
-/>
 
-<!-- <img 
-  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LubangaD&layout=compact&theme=dracula" 
-  height="150" 
-  alt="top languages" 
-/> -->
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LubangaD&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LubangaD&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
-</div>
+<!-- portrait + neofetch card share an 840x880 canvas, so equal widths give equal heights.
+     portrait:  python scripts/make_portrait.py      (only when the photo changes)
+     info card: python scripts/make_info_card.py     (edit ROWS when details change) -->
 
-###
-## About Me
+<h3><code>derrick@github ~ $ whoami</code></h3>
 
-I am a Data Scientist and Co-Founder of Tunga Innovation Limited, with a strong background in data analytics, machine learning, and predictive modeling. My work focuses on building AI-driven platforms that integrate predictive analytics, optimization, and real-time data processing to improve health and agricultural systems in Kenya. I have hands-on experience with LLMs, computer vision, and Apache Spark pipelines. I hold a Master’s in Data Science and Analytics from Strathmore University and am deeply passionate about using AI for social good and empowering disadvantaged communities through Innovative solutions.
+<table>
+<tr>
+<td valign="top"><img src="./portrait.svg" width="420" alt="Derrick Lubanga drawn in ASCII characters, typing itself in like a terminal" /></td>
+<td valign="top"><img src="./info-card.svg" width="420" alt="Derrick Lubanga, MSc. Co-Founder and CEO of Tunga Innovation, building AbleSpeak: hands-free voice control of computers for people with motor disabilities. Also DawaChat and healthcare AI. MSc Data Science and Analytics, Strathmore University. Based in Nairobi, Kenya." /></td>
+</tr>
+</table>
 
----
+<br>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="Arduino" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="R" />
-</div>
+<!-- contribution graph + stats card: real data, redrawn daily by .github/workflows/profile-art.yml -->
 
-## 🛠 Skills & Technologies
+<h3><code>derrick@github ~ $ ./contributions.sh</code></h3>
 
-### AI & Data Science Tech Stack
-- **Data Visualization**: Power BI, Tableau, Matplotlib, Seaborn, Plotly
-- **Programming**: Python, SQL
-- **Machine Learning**: Predictive Modeling, Statistical Methods, Scikit-Learn, TensorFlow, Keras
-- **GenAI & Large Language Models (LLMs)**: OpenAI GPT, BERT, T5, Transformer Libraries, Hugging Face Transformers
-- **Big Data Technologies**: Apache Spark, Hadoop
-- **Data Warehousing**: Snowflake, BigQuery, Redshift
-- **Cloud Platforms**: AWS (SageMaker, EC2), Azure (ML Studio), Google Cloud (AI Platform)
-- **Data Engineering**: Apache Airflow, Kafka, ETL Tools, SSIS (SQL Server Integration Services)
-- **Model Deployment**: Flask, Streamlit
-- **Visualization & Reporting**: D3.js, Dash, Shiny for R, Streamlit
+<img src="./contrib-heatmap.svg" width="860" alt="Derrick's GitHub contributions over the last year, refreshed daily" />
 
+<br>
+<br>
 
-### Web Development
-- **Frontend**: HTML, CSS, JavaScript
-- **Web Tools**: WordPress
+<h3><code>derrick@github ~ $ ./stats.sh</code></h3>
 
-### Data Engineering
-- **ETL Tools**: SSIS (SQL Server Integration Services)
+<img src="./stats.svg" width="860" alt="Current and longest streak, total contributions, active days, best day and contributions per month, refreshed daily" />
 
----
+<br>
+<br>
 
-## 📫 Get in Touch
-- **Email**: [lderrickn254@gmail.com](mailto:lderrickn254@gmail.com)
-- **LinkedIn**: [linkedin.com/in/lubanga99/](https://www.linkedin.com/in/lubangaderrick/)
+<h3><code>derrick@github ~ $ ls ~/stack</code></h3>
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" title="Python" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="34" alt="R" title="R" />&nbsp;
+<img src="https://cdn.simpleicons.org/mysql/4479A1" height="34" alt="MySQL" title="MySQL" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="34" alt="TensorFlow" title="TensorFlow" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="34" alt="Keras" title="Keras" />&nbsp;
+<img src="https://cdn.simpleicons.org/pandas/150458/E70488" height="34" alt="pandas" title="pandas" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="34" alt="Jupyter" title="Jupyter" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="34" alt="Apache Spark" title="Apache Spark" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="34" alt="Apache Airflow" title="Apache Airflow" />&nbsp;
+<img src="https://cdn.simpleicons.org/apachekafka/231F20/E6EDF3" height="34" alt="Apache Kafka" title="Apache Kafka" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="34" alt="AWS" title="AWS" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="34" alt="Azure" title="Azure" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="34" alt="Google Cloud" title="Google Cloud" />
+<br><br>
+<img src="https://cdn.simpleicons.org/flask/000000/E6EDF3" height="34" alt="Flask" title="Flask" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="34" alt="Streamlit" title="Streamlit" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" title="JavaScript" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="React" title="React" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="HTML5" title="HTML5" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="CSS3" title="CSS3" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="34" alt="Git" title="Git" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="34" alt="Arduino" title="Arduino" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="34" alt="Canva" title="Canva" />
+
+<br>
+
+<details>
+<summary><code>derrick@github ~ $ cat about.md skills.md</code></summary>
+
+<br>
 
 <div align="left">
-  <a href="https://www.instagram.com/de_rri_ck_99/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-  <a href="mailto:lderrickn254@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/lubanga99/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Linktree" />
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Medium" />
-  <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Signal" />
+
+I am a Data Scientist and Co-Founder of Tunga Innovation Limited, with a strong background in data analytics, machine learning, and predictive modeling. My work focuses on building AI-driven platforms that integrate predictive analytics, optimization, and real-time data processing to improve health and agricultural systems in Kenya. I have hands-on experience with LLMs, computer vision, and Apache Spark pipelines. I hold a Master’s in Data Science and Analytics from Strathmore University and am deeply passionate about using AI for social good and empowering disadvantaged communities through innovative solutions.
+
+| Area | Tools |
+| --- | --- |
+| Programming | Python, SQL, R |
+| Machine learning | Predictive modelling, statistical methods, scikit-learn, TensorFlow, Keras |
+| GenAI & LLMs | OpenAI GPT, BERT, T5, Hugging Face Transformers |
+| Data visualisation | Power BI, Tableau, Matplotlib, Seaborn, Plotly, D3.js, Dash, Shiny for R |
+| Big data | Apache Spark, Hadoop |
+| Data warehousing | Snowflake, BigQuery, Redshift |
+| Data engineering | Apache Airflow, Kafka, ETL tools, SSIS |
+| Cloud | AWS (SageMaker, EC2), Azure (ML Studio), Google Cloud (AI Platform) |
+| Model deployment | Flask, Streamlit |
+| Web | HTML, CSS, JavaScript, React, WordPress |
+
 </div>
+</details>
 
----
+<br>
 
-<br clear="both">
+<h3><code>derrick@github ~ $ ./links.sh</code></h3>
 
-<img src="https://raw.githubusercontent.com/LubangaD/LubangaD/output/snake.svg" alt="Snake animation" />
+<p><b>Data Scientist · Co-Founder & CEO, Tunga Innovation · Building AbleSpeak</b></p>
 
----
+[![Website](https://img.shields.io/badge/Website-tunga.advernet.africa-F5A623?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tunga.advernet.africa/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-lubangaderrick-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lubangaderrick/)
+[![Email](https://img.shields.io/badge/Email-lderrickn254%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lderrickn254@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-de__rri__ck__99-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/de_rri_ck_99/)
 
+<br>
 
-<div align="left">
-  <a href="https://www.instagram.com/de_rri_ck_99/">
-    <img src="https://img.shields.io/static/v1?message=
+<h3><code>derrick@github ~ $ ./snake.sh</code></h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LubangaD/LubangaD/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LubangaD/LubangaD/output/snake-light.svg" />
+  <img src="https://raw.githubusercontent.com/LubangaD/LubangaD/output/snake.svg" width="860" alt="A snake eating Derrick's contribution graph" />
+</picture>
+
+<br>
+<br>
+
+<sub>Art is generated by the Python scripts in <a href="./scripts">scripts/</a> and refreshed daily by GitHub Actions. Terminal style inspired by <a href="https://www.avivashishta.com/blog/build-animated-github-profile-readme">Avi Vashishta</a>.</sub>
+
+</div>

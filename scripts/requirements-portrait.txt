@@ -1,0 +1,4 @@
+# Only for make_portrait.py, run locally when the photo changes.
+# The daily workflow scripts use the Python standard library.
+pillow>=10
+numpy>=1.26

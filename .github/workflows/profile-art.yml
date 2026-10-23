@@ -1,0 +1,41 @@
+name: Update profile art
+
+# Refreshes the contribution graph and stats card from real data every day,
+# whenever main is pushed, and on demand from the Actions tab.
+# The portrait and info card are made locally; see scripts/make_portrait.py.
+
+"on":
+  schedule:
+    - cron: "17 6 * * *"   # ~09:17 Nairobi time
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  art:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Read contributions (public, no token)
+        run: python scripts/fetch_contributions.py ${{ github.repository_owner }}
+
+      - name: Draw contribution graph
+        run: python scripts/render_heatmap.py
+
+      - name: Draw stats card
+        run: python scripts/render_stats.py
+
+      - name: Commit updated art
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh profile art [skip ci]"
+          file_pattern: "data/contributions.json contrib-heatmap.svg stats.svg"
