@@ -4,8 +4,6 @@
      portrait:  python scripts/make_portrait.py      (only when the photo changes)
      info card: python scripts/make_info_card.py     (edit ROWS when details change) -->
 
-<h3><code>derrick@github ~ $ whoami</code></h3>
-
 <table>
 <tr>
 <td valign="top"><img src="./portrait.svg" width="420" alt="Derrick Lubanga drawn in ASCII characters, typing itself in like a terminal" /></td>
@@ -17,21 +15,15 @@
 
 <!-- contribution graph + stats card: real data, redrawn daily by .github/workflows/profile-art.yml -->
 
-<h3><code>derrick@github ~ $ ./contributions.sh</code></h3>
-
 <img src="./contrib-heatmap.svg" width="860" alt="Derrick's GitHub contributions over the last year, refreshed daily" />
 
 <br>
 <br>
 
-<h3><code>derrick@github ~ $ ./stats.sh</code></h3>
-
 <img src="./stats.svg" width="860" alt="Current and longest streak, total contributions, active days, best day and contributions per month, refreshed daily" />
 
 <br>
 <br>
-
-<h3><code>derrick@github ~ $ ls ~/stack</code></h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" title="Python" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="34" alt="R" title="R" />&nbsp;
@@ -60,7 +52,7 @@
 <br>
 
 <details>
-<summary><code>derrick@github ~ $ cat about.md skills.md</code></summary>
+<summary><b>About me & skills</b></summary>
 
 <br>
 
@@ -86,8 +78,6 @@ I am a Data Scientist and Co-Founder of Tunga Innovation Limited, with a strong 
 
 <br>
 
-<h3><code>derrick@github ~ $ ./links.sh</code></h3>
-
 <p><b>Data Scientist · Co-Founder & CEO, Tunga Innovation · Building AbleSpeak</b></p>
 
 [![Website](https://img.shields.io/badge/Website-tunga.advernet.africa-F5A623?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tunga.advernet.africa/)
@@ -96,8 +86,6 @@ I am a Data Scientist and Co-Founder of Tunga Innovation Limited, with a strong 
 [![Instagram](https://img.shields.io/badge/Instagram-de__rri__ck__99-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/de_rri_ck_99/)
 
 <br>
-
-<h3><code>derrick@github ~ $ ./snake.sh</code></h3>
 
 <!-- once snake.yml has run, add a light variant:
      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LubangaD/LubangaD/output/snake-light.svg" /> -->
