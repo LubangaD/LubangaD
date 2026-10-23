@@ -52,24 +52,11 @@
 <br>
 
 <details>
-<summary><b>About me & skills</b></summary>
+<summary><b>Skills</b></summary>
 
 <br>
 
 <div align="left">
-
-**Derrick Lubanga** is a Kenyan data scientist, researcher and assistive-technology entrepreneur working on predictive analytics, data engineering and digital inclusion tools across Africa. He is Co-Founder and CEO of [Tunga Innovation](https://tunga.advernet.africa/), where he built **AbleSpeak** to help learners with physical disabilities.
-
-**💡 AbleSpeak**
-
-- Voice control for people who can't use a keyboard or mouse, in two products: **Web navigation**, a Chrome extension for moving through websites and online learning by voice, and **Computer control**, a Windows app for hands-free use of the whole computer.
-- Built for the Kenyan accent and non-standard speech, rather than imported technology tuned to other voices.
-- Named a [Royal Academy of Engineering LIF Advance Awardee 2026](https://raeng.org.uk/programmes-and-prizes/programmes/international-programmes/lif/lif-entrepreneurs/advance-innovators/lif-advance-awardees-2026/derrick-lubanga/) for this work ([AT2030](https://at2030.org/2026-advance-awardees/)).
-
-**📊 Data science**
-
-- Data Scientist at [Stahili](https://stahili.com/about-us/), working in machine learning and data architecture.
-- MSc Data Science and Analytics, Strathmore University.
 
 | Area | Tools |
 | --- | --- |
