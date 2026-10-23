@@ -10,7 +10,7 @@ import os
 import sys
 import textwrap
 
-from terminal import AMBER, CARD_H, CARD_W, CYAN, FRAME, GREEN, MUTED, PROMPT, SOFT, esc, window
+from terminal import AMBER, CARD_H, CARD_W, CYAN, FRAME, GOLD, GREEN, MUTED, PROMPT, SOFT, esc, window
 
 ROOT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..")
 OUT = sys.argv[1] if len(sys.argv) > 1 else os.path.join(ROOT, "info-card.svg")
@@ -18,17 +18,19 @@ OUT = sys.argv[1] if len(sys.argv) > 1 else os.path.join(ROOT, "info-card.svg")
 ROWS = [
     ("Name", "Derrick Lubanga, MSc"),
     ("Role", "Co-Founder & CEO, Tunga Innovation"),
-    ("Building", "AbleSpeak: hands-free voice control of computers for people with motor disabilities"),
-    ("Also", "DawaChat and healthcare AI"),
-    ("Focus", "AI for social good, accessibility, health and agri analytics"),
-    ("Study", "MSc Data Science & Analytics, Strathmore University"),
+    ("Also", "Data Scientist, Stahili"),
+    ("Building", "AbleSpeak: a voice-controlled browser extension giving students with motor "
+                 "disabilities hands-free access to digital learning"),
+    ("Tuned for", "Kenyan accents and non-standard speech"),
+    ("Award", "Royal Academy of Engineering LIF Advance Awardee 2026"),
+    ("Alumni", "Nairobi Circular Economy ClimAccelerator"),
+    ("Study", "MSc Data Science & Analytics, Strathmore"),
+    ("Focus", "Predictive analytics · digital inclusion"),
     ("Stack", "Python · SQL · TensorFlow · Spark · LLMs"),
-    ("Data", "Power BI · Tableau · Airflow · Kafka"),
-    ("Cloud", "AWS · Azure · Google Cloud"),
     ("Base", "Nairobi, Kenya"),
-    ("Highlight", "Meta Llama Impact Accelerator"),
     ("Contact", "lderrickn254@gmail.com"),
 ]
+HIGHLIGHT = {"Building": AMBER, "Award": GOLD}
 MOTTO = "Every voice deserves access."
 
 PAD = 36
@@ -71,7 +73,7 @@ def render():
                  f'<tspan fill="{CYAN}">{host}</tspan></text>')
     lines.append(f'<text x="{PAD}" y="{{y}}" font-size="{FONT}" fill="{FRAME}">{"-" * len(PROMPT)}</text>')
     for key, value in ROWS:
-        colour = AMBER if key == "Building" else SOFT
+        colour = HIGHLIGHT.get(key, SOFT)
         for i, chunk in enumerate(textwrap.wrap(value, WRAP)):
             label = f'<tspan fill="{CYAN}" font-weight="700">{key}</tspan>' if i == 0 else ""
             lines.append(f'<text x="{PAD}" y="{{y}}" font-size="{FONT}">{label}'

@@ -7,7 +7,7 @@
 <table>
 <tr>
 <td valign="top"><img src="./portrait.svg" width="420" alt="Derrick Lubanga drawn in ASCII characters, typing itself in like a terminal" /></td>
-<td valign="top"><img src="./info-card.svg" width="420" alt="Derrick Lubanga, MSc. Co-Founder and CEO of Tunga Innovation, building AbleSpeak: hands-free voice control of computers for people with motor disabilities. Also DawaChat and healthcare AI. MSc Data Science and Analytics, Strathmore University. Based in Nairobi, Kenya." /></td>
+<td valign="top"><img src="./info-card.svg" width="420" alt="Derrick Lubanga, MSc. Co-Founder and CEO of Tunga Innovation and Data Scientist at Stahili, building AbleSpeak: a voice-controlled browser extension giving students with motor disabilities hands-free access to digital learning, tuned for Kenyan accents. Royal Academy of Engineering LIF Advance Awardee 2026. Based in Nairobi, Kenya." /></td>
 </tr>
 </table>
 
@@ -58,7 +58,19 @@
 
 <div align="left">
 
-I am a Data Scientist and Co-Founder of Tunga Innovation Limited, with a strong background in data analytics, machine learning, and predictive modeling. My work focuses on building AI-driven platforms that integrate predictive analytics, optimization, and real-time data processing to improve health and agricultural systems in Kenya. I have hands-on experience with LLMs, computer vision, and Apache Spark pipelines. I hold a Master’s in Data Science and Analytics from Strathmore University and am deeply passionate about using AI for social good and empowering disadvantaged communities through innovative solutions.
+**Derrick Lubanga** is a Kenyan data scientist, researcher and assistive-technology entrepreneur working on predictive analytics, data engineering and digital inclusion tools across Africa. He is Co-Founder and CEO of [Tunga Innovation](https://tunga.advernet.africa/), where he built **AbleSpeak** to help learners with physical disabilities.
+
+**💡 AbleSpeak**
+
+- A lightweight, browser-based assistive extension that turns voice commands into real-time navigation, for students with limited hand mobility.
+- Built for the Kenyan accent and non-standard speech, rather than imported technology tuned to other voices.
+- Named a [Royal Academy of Engineering LIF Advance Awardee 2026](https://raeng.org.uk/programmes-and-prizes/programmes/international-programmes/lif/lif-entrepreneurs/advance-innovators/lif-advance-awardees-2026/derrick-lubanga/) for this work ([AT2030](https://at2030.org/2026-advance-awardees/)).
+
+**📊 Data science**
+
+- Data Scientist at [Stahili](https://stahili.com/about-us/), working in machine learning and data architecture.
+- Alumnus of the Nairobi Circular Economy ClimAccelerator cohort, applying data to green-innovation challenges.
+- MSc Data Science and Analytics, Strathmore University.
 
 | Area | Tools |
 | --- | --- |
@@ -78,7 +90,7 @@ I am a Data Scientist and Co-Founder of Tunga Innovation Limited, with a strong 
 
 <br>
 
-<p><b>Data Scientist · Co-Founder & CEO, Tunga Innovation · Building AbleSpeak</b></p>
+<p><b>Data Scientist · Researcher · Assistive Technology Entrepreneur</b></p>
 
 [![Website](https://img.shields.io/badge/Website-tunga.advernet.africa-F5A623?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tunga.advernet.africa/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lubangaderrick-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lubangaderrick/)
